@@ -1,6 +1,6 @@
 # 🧸 Synology
 ## 本规则地址
-https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/Synology/Synology.list
+https://raw.githubusercontent.com/maycyc/ios_tvos_rule/main/rule/Loon/Synology/Synology.list
 ## 前言
 
 ![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
