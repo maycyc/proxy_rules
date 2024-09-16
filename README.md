@@ -1,2 +1,2 @@
-# Seam
+# 🤣Seam
 # Gather and stitch the rules

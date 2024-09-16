@@ -1,4 +1,4 @@
-# 🧸 Synology
+# 🚀 Synology
 
 ## 前言
 
