@@ -1,0 +1,33 @@
+# NAME: Synology
+# AUTHOR: Maycy
+# REPO: https://github.com/maycyc/tvOS_rule
+# UPDATED: 2024-09-16 07:33:00
+# DOMAIN: 1
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 23
+# TOTAL: 25
+DOMAIN,d2f0395ykn6hxb.cloudfront.net
+DOMAIN-SUFFIX,diskstation.me
+DOMAIN-SUFFIX,dscloud.biz
+DOMAIN-SUFFIX,dscloud.me
+DOMAIN-SUFFIX,dscloud.mobi
+DOMAIN-SUFFIX,dsmunas.com
+DOMAIN-SUFFIX,dsmunas.net
+DOMAIN-SUFFIX,dsmunas.org
+DOMAIN-SUFFIX,familyds.com
+DOMAIN-SUFFIX,familyds.net
+DOMAIN-SUFFIX,familyds.org
+DOMAIN-SUFFIX,i234.me
+DOMAIN-SUFFIX,myds.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,synodns.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,whatismyip.akamai.com
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,synologyupdate.com
+DOMAIN-SUFFIX,synologydownload.com
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-KEYWORD,synology
