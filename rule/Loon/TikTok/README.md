@@ -1,5 +1,9 @@
 # 🎈 TikTok
 
+## 本规则地址
+
+https://raw.githubusercontent.com/maycyc/proxy_rules/main/rule/Loon/TikTok/TikTok.list
+
 ## 前言
 
 ![](https://shields.io/badge/-移除重复规则-ff69b4) ![](https://shields.io/badge/-DOMAIN与DOMAIN--SUFFIX合并-green) ![](https://shields.io/badge/-DOMAIN--SUFFIX间合并-critical) ![](https://shields.io/badge/-DOMAIN--SUFFIX与DOMAIN--KEYWORD合并-blue) ![](https://shields.io/badge/-IP--CIDR(6)合并-blueviolet) 
