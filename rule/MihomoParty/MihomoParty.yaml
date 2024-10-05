@@ -20,7 +20,7 @@ proxy-groups:
   - {name: 哔哩哔哩, type: select, proxies: [DIRECT, 香港节点, 台湾节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/bilibili.png }
   - {name: OpenAi,   type: select, proxies: [美国节点, 手动切换], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/OpenAI.png }
   - {name: 国际媒体, type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点, 自动选择, 手动切换, DIRECT], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Streaming.png }
-  - {name: 谷歌服务, type: select, proxies: [澳门节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png }
+  - {name: 谷歌服务, type: select, proxies: [澳门节点, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点, 自动选择, 手动切换, DIRECT], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png }
   - {name: 电报消息, type: select, proxies: [香港节点, 自动选择, 日本节点, 台湾节点, 美国节点, 狮城节点, 手动切换, DIRECT], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Telegram.png }
   - {name: 推特服务, type: select, proxies: [香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点, 自动选择, 手动切换, DIRECT], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/Twitter.png }
   - {name: 游戏平台, type: select, proxies: [DIRECT, 手动切换, 自动选择, 香港节点, 日本节点, 台湾节点, 美国节点, 狮城节点], icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/GAME.png }
