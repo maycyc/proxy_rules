@@ -1,0 +1,5 @@
+# Author: 
+# Github: https://github.com/maycyc/proxy_rules
+# 引用地址 
+# 自添加直连规则
+DOMAIN-SUFFIX, ttvb.eu.org //APTV订阅
