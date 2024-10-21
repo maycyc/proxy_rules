@@ -36,7 +36,7 @@ proxy-groups:
   - {name: 台湾节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "台|湾|TW|(?i)Taiwan", icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/TW.png }
   - {name: 美国节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "美|US|(?i)States|American", icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/US.png }
   - {name: 狮城节点, type: url-test, include-all: true, interval: 600, tolerance: 50,  filter: "新|坡|SG|(?i)Singapore", icon: https://ghp.ci/https://raw.githubusercontent.com/Orz-3/mini/master/Color/SG.png }
-  - {name: 澳门节点, type: url-test, include-all: true, interval: 300, tolerance: 50,  filter: "澳门", icon: https://ghp.ci/https://raw.githubusercontent.com/maycyc/proxy_rules/refs/heads/main/icon/color/Macao.png }
+  - {name: 澳门节点, type: url-test, include-all: true, interval: 300, tolerance: 50,  filter: "澳门|Macao|MAC", icon: https://ghp.ci/https://raw.githubusercontent.com/maycyc/proxy_rules/refs/heads/main/icon/color/Macao.png }
 
 # 分流规则 
 rule-providers:
