@@ -8,7 +8,8 @@ https://raw.githubusercontent.com/maycyc/proxy_rules/main/Config/Loon/Basic_Conf
 
 ## 🎈tvos Configuration: 
 
-https://raw.githubusercontent.com/maycyc/proxy_rules/main/Config/Loon/tvOS.conf
+- https://raw.githubusercontent.com/maycyc/proxy_rules/refs/heads/main/Config/Loon/tvOS.conf
+- https://raw.githubusercontent.com/maycyc/proxy_rules/main/Config/Loon/tvOS.conf
 
 ## 🎈ios Configuration: 
 
