@@ -137,20 +137,6 @@ proxy-groups:
       - 狮城节点
       - 日本节点
       - 手动切换
-  - name: 谷歌服务
-    icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png
-    type: select
-    proxies:
-      - DIRECT
-      - 节点选择
-      - 美国节点
-      - 香港节点
-      - 澳门节点
-      - 台湾节点
-      - 狮城节点
-      - 日本节点
-      - 韩国节点
-      - 手动切换
   - name: 谷歌FCM
     icon: https://fastly.jsdelivr.net/gh/Koolson/Qure@master/IconSet/Color/Google_Search.png
     type: select
@@ -391,13 +377,6 @@ rule-providers:
     interval: 86400
     format: text
     type: http
-  Google:
-    url: https://ghp.ci/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/refs/heads/master/Clash/Ruleset/Google.list
-    path: ./ruleset/Google.list
-    behavior: classical
-    interval: 86400
-    format: text
-    type: http
   GoogleFCM:
     url: https://ghp.ci/https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleFCM.list
     path: ./ruleset/GoogleFCM.list
@@ -593,7 +572,6 @@ rules:
   - "RULE-SET,UnBan,全球直连"
   - "RULE-SET,BanAD,广告拦截"
   - "RULE-SET,BanProgramAD,应用净化"
-  - "RULE-SET,Google,谷歌服务"
   - "RULE-SET,GoogleFCM,谷歌FCM"
   - "RULE-SET,GoogleCN,全球直连"
   - "RULE-SET,SteamCN,全球直连"
