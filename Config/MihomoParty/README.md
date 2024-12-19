@@ -4,4 +4,4 @@
 
 - MihomoParty：https://raw.githubusercontent.com/maycyc/proxy_rules/refs/heads/main/Config/MihomoParty/MihomoParty.yaml
 
-- MihomoParty：https://raw.githubusercontent.com/maycyc/proxy_rules/refs/heads/main/Config/MihomoParty/ACL4SSR_Online_Full_WithIcon.yaml
+- ACL4SSR_Online_Full_WithIcon：https://raw.githubusercontent.com/maycyc/proxy_rules/refs/heads/main/Config/MihomoParty/ACL4SSR_Online_Full_WithIcon.yaml
