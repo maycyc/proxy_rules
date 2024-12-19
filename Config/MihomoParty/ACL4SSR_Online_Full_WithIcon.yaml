@@ -593,7 +593,7 @@ rules:
   - "RULE-SET,UnBan,全球直连"
   - "RULE-SET,BanAD,广告拦截"
   - "RULE-SET,BanProgramAD,应用净化"
-  - "RULE-SET,Google,Google"
+  - "RULE-SET,Google,谷歌FCM"
   - "RULE-SET,GoogleFCM,谷歌FCM"
   - "RULE-SET,GoogleCN,全球直连"
   - "RULE-SET,SteamCN,全球直连"
