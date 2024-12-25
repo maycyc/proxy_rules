@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/maycyc/proxy_rules/refs/heads/main/rule/Loon/Maycy/Maycy_Direct.list
+https://raw.githubusercontent.com/maycyc/proxy_rules/refs/heads/main/rule/Shadowrocket/Maycy/Maycy_Direct.list
