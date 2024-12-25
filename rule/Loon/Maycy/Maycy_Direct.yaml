@@ -2,4 +2,44 @@
 # Github: https://github.com/maycyc/proxy_rules
 # 引用地址 
 # 自添加直连规则
+# Synology直连规则
+DOMAIN,d2f0395ykn6hxb.cloudfront.net
+DOMAIN-SUFFIX,diskstation.me
+DOMAIN-SUFFIX,dscloud.biz
+DOMAIN-SUFFIX,dscloud.me
+DOMAIN-SUFFIX,dscloud.mobi
+DOMAIN-SUFFIX,dsmunas.com
+DOMAIN-SUFFIX,dsmunas.net
+DOMAIN-SUFFIX,dsmunas.org
+DOMAIN-SUFFIX,familyds.com
+DOMAIN-SUFFIX,familyds.net
+DOMAIN-SUFFIX,familyds.org
+DOMAIN-SUFFIX,i234.me
+DOMAIN-SUFFIX,myds.com
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,synodns.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.me
+DOMAIN-SUFFIX,dyndns.com
+DOMAIN-SUFFIX,whatismyip.akamai.com
+DOMAIN-SUFFIX,digitalocean.com
+DOMAIN-SUFFIX,synologyupdate.com
+DOMAIN-SUFFIX,synologydownload.com
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-KEYWORD,synology
+# APTV
 DOMAIN-SUFFIX, ttvb.eu.org //APTV订阅
+# FacMata
+DOMAIN-SUFFIX,makima.online
+DOMAIN-SUFFIX,cdn.jiashule.com
+#其它直连规则
+DOMAIN-SUFFIX,cdn.zhitingge.com
+DOMAIN-SUFFIX,upup.fun
+DOMAIN-SUFFIX,cavps.eu.org
+DOMAIN-SUFFIX,wmxz.567996.xyz
+DOMAIN-SUFFIX,emby.pppp.us.kg
+IP-CIDR,50.114.55.29/32
+IP-CIDR,38.150.0.75/32
+IP-CIDR,141.11.218.151/32
+DOMAIN-SUFFIX,emusica.91bp.us.kg
