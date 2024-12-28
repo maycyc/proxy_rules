@@ -28,20 +28,16 @@ DOMAIN-SUFFIX,synologyupdate.com
 DOMAIN-SUFFIX,synologydownload.com
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN-KEYWORD,synology
-
 # APTV
 DOMAIN-SUFFIX, ttvb.eu.org //APTV订阅
-
 # FacMata
 DOMAIN-SUFFIX,makima.online
 DOMAIN-SUFFIX,cdn.jiashule.com
-
 # HP规则
 DOMAIN-SUFFIX,hp.com
 DOMAIN-SUFFIX,hpstore-china.com
 DOMAIN-SUFFIX,hpstore.com
 DOMAIN-SUFFIX,hpstore.corpmerchandise.com
-
 #其它直连规则
 DOMAIN-SUFFIX,cdn.zhitingge.com
 DOMAIN-SUFFIX,upup.fun
@@ -52,3 +48,5 @@ IP-CIDR,50.114.55.29/32,no-resolve
 IP-CIDR,38.150.0.75/32,no-resolve
 IP-CIDR,141.11.218.151/32,no-resolve
 DOMAIN-SUFFIX,emusica.91bp.us.kg
+DOMAIN-SUFFIX,auroramedia.vip
+DOMAIN-SUFFIX,abc.auroramedia.vip
