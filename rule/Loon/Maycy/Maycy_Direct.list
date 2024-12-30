@@ -48,10 +48,10 @@ DOMAIN-SUFFIX,wmxz.567996.xyz
 IP-CIDR,38.150.0.75/32,no-resolve
 DOMAIN-SUFFIX,emby.pppp.us.kg
 IP-CIDR,141.11.218.151/32,no-resolve
-IP-CIDR,154.29.145.151:50632,no-resolve
+IP-CIDR,154.29.145.151/32,no-resolve
 #Emby-极光服AuroraMedia
 DOMAIN-SUFFIX,auroramedia.vip
 #音乐服
-DOMAIN-SUFFIX,emusica.91bp.us.kg
+DOMAIN-SUFFIX,91bp.us.kg
 DOMAIN-SUFFIX,xmsl.bf
 DOMAIN-SUFFIX,makifx.com
