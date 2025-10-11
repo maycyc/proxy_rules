@@ -1,0 +1,10 @@
+# Author: Emby代理规则
+# Github: https://github.com/maycyc/proxy_rules
+# 引用地址 
+
+DOMAIN-SUFFIX,synn.cc
+DOMAIN-SUFFIX,aliz.work
+DOMAIN-SUFFIX,313445.xyz
+DOMAIN-SUFFIX,cn2gias.uk
+DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,emby.wtf
